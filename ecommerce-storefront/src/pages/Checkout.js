@@ -112,4 +112,4 @@ function Checkout() {
     );
 }
 
-export default Checkouut;
+export default Checkout;
